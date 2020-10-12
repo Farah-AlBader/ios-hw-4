@@ -1,0 +1,581 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04A0655925336AF0008A43EE /* Ready For It.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655825336AF0008A43EE /* Ready For It.mp3 */; };
+		04A0656825336B94008A43EE /* Dress.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655A25336B93008A43EE /* Dress.mp3 */; };
+		04A0656925336B94008A43EE /* Getaway Car.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655B25336B93008A43EE /* Getaway Car.mp3 */; };
+		04A0656A25336B94008A43EE /* I Did Something Bad.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655C25336B93008A43EE /* I Did Something Bad.mp3 */; };
+		04A0656B25336B94008A43EE /* Don’t Blame Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655D25336B93008A43EE /* Don’t Blame Me.mp3 */; };
+		04A0656C25336B94008A43EE /* Look What You Made Me Do.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655E25336B93008A43EE /* Look What You Made Me Do.mp3 */; };
+		04A0656D25336B94008A43EE /* Call It What You Want.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0655F25336B93008A43EE /* Call It What You Want.mp3 */; };
+		04A0656E25336B94008A43EE /* King Of My Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656025336B93008A43EE /* King Of My Heart.mp3 */; };
+		04A0656F25336B94008A43EE /* Gorgeous.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656125336B93008A43EE /* Gorgeous.mp3 */; };
+		04A0657025336B94008A43EE /* Dancing With Our Hands Tied.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656225336B93008A43EE /* Dancing With Our Hands Tied.mp3 */; };
+		04A0657125336B94008A43EE /* End Game.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656325336B93008A43EE /* End Game.mp3 */; };
+		04A0657225336B94008A43EE /* So It Goes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656425336B93008A43EE /* So It Goes.mp3 */; };
+		04A0657325336B94008A43EE /* This Is Why We Can t Have Nice Things.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656525336B93008A43EE /* This Is Why We Can t Have Nice Things.mp3 */; };
+		04A0657425336B94008A43EE /* New Year’s Day.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656625336B93008A43EE /* New Year’s Day.mp3 */; };
+		04A0657525336B94008A43EE /* Delicate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0656725336B94008A43EE /* Delicate.mp3 */; };
+		04A0658325336CDD008A43EE /* Faith.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657625336CDC008A43EE /* Faith.mp3 */; };
+		04A0658425336CDD008A43EE /* Until I Bleed Out.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657725336CDC008A43EE /* Until I Bleed Out.mp3 */; };
+		04A0658525336CDD008A43EE /* Snowchild.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657825336CDC008A43EE /* Snowchild.mp3 */; };
+		04A0658625336CDD008A43EE /* After Hours.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657925336CDC008A43EE /* After Hours.mp3 */; };
+		04A0658725336CDD008A43EE /* Too Late.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657A25336CDC008A43EE /* Too Late.mp3 */; };
+		04A0658825336CDD008A43EE /* Alone Again .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657B25336CDC008A43EE /* Alone Again .mp3 */; };
+		04A0658925336CDD008A43EE /* In Your Eyes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657C25336CDD008A43EE /* In Your Eyes.mp3 */; };
+		04A0658A25336CDD008A43EE /* Save Your Tears.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657D25336CDD008A43EE /* Save Your Tears.mp3 */; };
+		04A0658B25336CDD008A43EE /* Repeat After Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657E25336CDD008A43EE /* Repeat After Me.mp3 */; };
+		04A0658C25336CDD008A43EE /* Scared To Live.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0657F25336CDD008A43EE /* Scared To Live.mp3 */; };
+		04A0658D25336CDD008A43EE /* Heartless.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0658025336CDD008A43EE /* Heartless.mp3 */; };
+		04A0658E25336CDD008A43EE /* Escape From LA.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0658125336CDD008A43EE /* Escape From LA.mp3 */; };
+		04A0658F25336CDD008A43EE /* Hardest To Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0658225336CDD008A43EE /* Hardest To Love.mp3 */; };
+		04A065A02534DCD2008A43EE /* Hollywood s Bleeding.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065902534DCD1008A43EE /* Hollywood s Bleeding.mp3 */; };
+		04A065A12534DCD2008A43EE /* I m Gonna Be.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065912534DCD1008A43EE /* I m Gonna Be.mp3 */; };
+		04A065A22534DCD2008A43EE /* Enemies.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065922534DCD1008A43EE /* Enemies.mp3 */; };
+		04A065A32534DCD2008A43EE /* Goodbyes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065932534DCD1008A43EE /* Goodbyes.mp3 */; };
+		04A065A42534DCD2008A43EE /* A Thousand Bad Times.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065942534DCD1008A43EE /* A Thousand Bad Times.mp3 */; };
+		04A065A52534DCD2008A43EE /* Staring At The Sun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065952534DCD1008A43EE /* Staring At The Sun.mp3 */; };
+		04A065A62534DCD2008A43EE /* I Know.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065962534DCD1008A43EE /* I Know.mp3 */; };
+		04A065A72534DCD2008A43EE /* Circles.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065972534DCD1008A43EE /* Circles.mp3 */; };
+		04A065A82534DCD2008A43EE /* Take What You Want.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065982534DCD1008A43EE /* Take What You Want.mp3 */; };
+		04A065A92534DCD2008A43EE /* On The Road.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065992534DCD1008A43EE /* On The Road.mp3 */; };
+		04A065AA2534DCD2008A43EE /* Saint-Tropez.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0659A2534DCD1008A43EE /* Saint-Tropez.mp3 */; };
+		04A065AB2534DCD2008A43EE /* Myself.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0659B2534DCD1008A43EE /* Myself.mp3 */; };
+		04A065AC2534DCD2008A43EE /* Post Malone - Allergic (Audio).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0659C2534DCD1008A43EE /* Post Malone - Allergic (Audio).mp3 */; };
+		04A065AD2534DCD2008A43EE /* Internet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0659D2534DCD2008A43EE /* Internet.mp3 */; };
+		04A065AE2534DCD2008A43EE /* Wow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0659E2534DCD2008A43EE /* Wow.mp3 */; };
+		04A065AF2534DCD2008A43EE /* Die For Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A0659F2534DCD2008A43EE /* Die For Me.mp3 */; };
+		04A065B12534DFE1008A43EE /* Don’t Blame Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04A065B02534DFE1008A43EE /* Don’t Blame Me.mp3 */; };
+		04A4D6AA2530C0E700E9C48B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D6A92530C0E700E9C48B /* AppDelegate.swift */; };
+		04A4D6AC2530C0E700E9C48B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D6AB2530C0E700E9C48B /* SceneDelegate.swift */; };
+		04A4D6AE2530C0E700E9C48B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D6AD2530C0E700E9C48B /* ViewController.swift */; };
+		04A4D6B12530C0E700E9C48B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A4D6AF2530C0E700E9C48B /* Main.storyboard */; };
+		04A4D6B32530C0E800E9C48B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A4D6B22530C0E800E9C48B /* Assets.xcassets */; };
+		04A4D6B62530C0E800E9C48B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A4D6B42530C0E800E9C48B /* LaunchScreen.storyboard */; };
+		04A4D77E2531D6BF00E9C48B /* ArtistsTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D77D2531D6BF00E9C48B /* ArtistsTVC.swift */; };
+		04A4D7802531DA5500E9C48B /* artistsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D77F2531DA5500E9C48B /* artistsCell.swift */; };
+		04A4D7842531DEFD00E9C48B /* musicData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D7832531DEFD00E9C48B /* musicData.swift */; };
+		04A4D7862531F3F100E9C48B /* albumsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D7852531F3F100E9C48B /* albumsCell.swift */; };
+		04A4D788253200FB00E9C48B /* albumTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A4D787253200FB00E9C48B /* albumTVC.swift */; };
+		04C67A34253346B2000455CB /* songsTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C67A33253346B2000455CB /* songsTVC.swift */; };
+		04C67A36253346D6000455CB /* songsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C67A35253346D6000455CB /* songsCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		04A0655825336AF0008A43EE /* Ready For It.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ready For It.mp3"; sourceTree = "<group>"; };
+		04A0655A25336B93008A43EE /* Dress.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dress.mp3; sourceTree = "<group>"; };
+		04A0655B25336B93008A43EE /* Getaway Car.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Getaway Car.mp3"; sourceTree = "<group>"; };
+		04A0655C25336B93008A43EE /* I Did Something Bad.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I Did Something Bad.mp3"; sourceTree = "<group>"; };
+		04A0655D25336B93008A43EE /* Don’t Blame Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Don’t Blame Me.mp3"; sourceTree = "<group>"; };
+		04A0655E25336B93008A43EE /* Look What You Made Me Do.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Look What You Made Me Do.mp3"; sourceTree = "<group>"; };
+		04A0655F25336B93008A43EE /* Call It What You Want.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Call It What You Want.mp3"; sourceTree = "<group>"; };
+		04A0656025336B93008A43EE /* King Of My Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "King Of My Heart.mp3"; sourceTree = "<group>"; };
+		04A0656125336B93008A43EE /* Gorgeous.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Gorgeous.mp3; sourceTree = "<group>"; };
+		04A0656225336B93008A43EE /* Dancing With Our Hands Tied.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dancing With Our Hands Tied.mp3"; sourceTree = "<group>"; };
+		04A0656325336B93008A43EE /* End Game.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "End Game.mp3"; sourceTree = "<group>"; };
+		04A0656425336B93008A43EE /* So It Goes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "So It Goes.mp3"; sourceTree = "<group>"; };
+		04A0656525336B93008A43EE /* This Is Why We Can t Have Nice Things.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "This Is Why We Can t Have Nice Things.mp3"; sourceTree = "<group>"; };
+		04A0656625336B93008A43EE /* New Year’s Day.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "New Year’s Day.mp3"; sourceTree = "<group>"; };
+		04A0656725336B94008A43EE /* Delicate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Delicate.mp3; sourceTree = "<group>"; };
+		04A0657625336CDC008A43EE /* Faith.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Faith.mp3; sourceTree = "<group>"; };
+		04A0657725336CDC008A43EE /* Until I Bleed Out.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Until I Bleed Out.mp3"; sourceTree = "<group>"; };
+		04A0657825336CDC008A43EE /* Snowchild.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Snowchild.mp3; sourceTree = "<group>"; };
+		04A0657925336CDC008A43EE /* After Hours.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "After Hours.mp3"; sourceTree = "<group>"; };
+		04A0657A25336CDC008A43EE /* Too Late.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Too Late.mp3"; sourceTree = "<group>"; };
+		04A0657B25336CDC008A43EE /* Alone Again .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Alone Again .mp3"; sourceTree = "<group>"; };
+		04A0657C25336CDD008A43EE /* In Your Eyes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "In Your Eyes.mp3"; sourceTree = "<group>"; };
+		04A0657D25336CDD008A43EE /* Save Your Tears.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Save Your Tears.mp3"; sourceTree = "<group>"; };
+		04A0657E25336CDD008A43EE /* Repeat After Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Repeat After Me.mp3"; sourceTree = "<group>"; };
+		04A0657F25336CDD008A43EE /* Scared To Live.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Scared To Live.mp3"; sourceTree = "<group>"; };
+		04A0658025336CDD008A43EE /* Heartless.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Heartless.mp3; sourceTree = "<group>"; };
+		04A0658125336CDD008A43EE /* Escape From LA.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Escape From LA.mp3"; sourceTree = "<group>"; };
+		04A0658225336CDD008A43EE /* Hardest To Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hardest To Love.mp3"; sourceTree = "<group>"; };
+		04A065902534DCD1008A43EE /* Hollywood s Bleeding.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hollywood s Bleeding.mp3"; sourceTree = "<group>"; };
+		04A065912534DCD1008A43EE /* I m Gonna Be.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I m Gonna Be.mp3"; sourceTree = "<group>"; };
+		04A065922534DCD1008A43EE /* Enemies.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Enemies.mp3; sourceTree = "<group>"; };
+		04A065932534DCD1008A43EE /* Goodbyes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Goodbyes.mp3; sourceTree = "<group>"; };
+		04A065942534DCD1008A43EE /* A Thousand Bad Times.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Thousand Bad Times.mp3"; sourceTree = "<group>"; };
+		04A065952534DCD1008A43EE /* Staring At The Sun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Staring At The Sun.mp3"; sourceTree = "<group>"; };
+		04A065962534DCD1008A43EE /* I Know.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I Know.mp3"; sourceTree = "<group>"; };
+		04A065972534DCD1008A43EE /* Circles.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Circles.mp3; sourceTree = "<group>"; };
+		04A065982534DCD1008A43EE /* Take What You Want.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Take What You Want.mp3"; sourceTree = "<group>"; };
+		04A065992534DCD1008A43EE /* On The Road.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "On The Road.mp3"; sourceTree = "<group>"; };
+		04A0659A2534DCD1008A43EE /* Saint-Tropez.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Saint-Tropez.mp3"; sourceTree = "<group>"; };
+		04A0659B2534DCD1008A43EE /* Myself.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Myself.mp3; sourceTree = "<group>"; };
+		04A0659C2534DCD1008A43EE /* Post Malone - Allergic (Audio).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Post Malone - Allergic (Audio).mp3"; sourceTree = "<group>"; };
+		04A0659D2534DCD2008A43EE /* Internet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Internet.mp3; sourceTree = "<group>"; };
+		04A0659E2534DCD2008A43EE /* Wow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow.mp3; sourceTree = "<group>"; };
+		04A0659F2534DCD2008A43EE /* Die For Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Die For Me.mp3"; sourceTree = "<group>"; };
+		04A065B02534DFE1008A43EE /* Don’t Blame Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Don’t Blame Me.mp3"; sourceTree = "<group>"; };
+		04A4D6A62530C0E700E9C48B /* Music Player hm4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Music Player hm4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A4D6A92530C0E700E9C48B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		04A4D6AB2530C0E700E9C48B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		04A4D6AD2530C0E700E9C48B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		04A4D6B02530C0E700E9C48B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		04A4D6B22530C0E800E9C48B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04A4D6B52530C0E800E9C48B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		04A4D6B72530C0E800E9C48B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04A4D77D2531D6BF00E9C48B /* ArtistsTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistsTVC.swift; sourceTree = "<group>"; };
+		04A4D77F2531DA5500E9C48B /* artistsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = artistsCell.swift; sourceTree = "<group>"; };
+		04A4D7832531DEFD00E9C48B /* musicData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicData.swift; sourceTree = "<group>"; };
+		04A4D7852531F3F100E9C48B /* albumsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = albumsCell.swift; sourceTree = "<group>"; };
+		04A4D787253200FB00E9C48B /* albumTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = albumTVC.swift; sourceTree = "<group>"; };
+		04C67A33253346B2000455CB /* songsTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = songsTVC.swift; sourceTree = "<group>"; };
+		04C67A35253346D6000455CB /* songsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = songsCell.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04A4D6A32530C0E700E9C48B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04A4D69D2530C0E700E9C48B = {
+			isa = PBXGroup;
+			children = (
+				04A4D6A82530C0E700E9C48B /* Music Player hm4 */,
+				04A4D6A72530C0E700E9C48B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04A4D6A72530C0E700E9C48B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04A4D6A62530C0E700E9C48B /* Music Player hm4.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04A4D6A82530C0E700E9C48B /* Music Player hm4 */ = {
+			isa = PBXGroup;
+			children = (
+				04A4D7B72533428D00E9C48B /* Songs */,
+				04A4D7B62533425F00E9C48B /* Album */,
+				04A4D7B52533423F00E9C48B /* Artist */,
+				04A4D6BE2531164C00E9C48B /* musicAudio */,
+				04A4D6A92530C0E700E9C48B /* AppDelegate.swift */,
+				04A4D6AB2530C0E700E9C48B /* SceneDelegate.swift */,
+				04A4D6AD2530C0E700E9C48B /* ViewController.swift */,
+				04A4D6AF2530C0E700E9C48B /* Main.storyboard */,
+				04A4D6B22530C0E800E9C48B /* Assets.xcassets */,
+				04A4D6B42530C0E800E9C48B /* LaunchScreen.storyboard */,
+				04A4D6B72530C0E800E9C48B /* Info.plist */,
+				04A4D7832531DEFD00E9C48B /* musicData.swift */,
+			);
+			path = "Music Player hm4";
+			sourceTree = "<group>";
+		};
+		04A4D6BE2531164C00E9C48B /* musicAudio */ = {
+			isa = PBXGroup;
+			children = (
+				04A065B02534DFE1008A43EE /* Don’t Blame Me.mp3 */,
+				04A065942534DCD1008A43EE /* A Thousand Bad Times.mp3 */,
+				04A065972534DCD1008A43EE /* Circles.mp3 */,
+				04A0659F2534DCD2008A43EE /* Die For Me.mp3 */,
+				04A065922534DCD1008A43EE /* Enemies.mp3 */,
+				04A065932534DCD1008A43EE /* Goodbyes.mp3 */,
+				04A065902534DCD1008A43EE /* Hollywood s Bleeding.mp3 */,
+				04A065962534DCD1008A43EE /* I Know.mp3 */,
+				04A065912534DCD1008A43EE /* I m Gonna Be.mp3 */,
+				04A0659D2534DCD2008A43EE /* Internet.mp3 */,
+				04A0659B2534DCD1008A43EE /* Myself.mp3 */,
+				04A065992534DCD1008A43EE /* On The Road.mp3 */,
+				04A0659C2534DCD1008A43EE /* Post Malone - Allergic (Audio).mp3 */,
+				04A0659A2534DCD1008A43EE /* Saint-Tropez.mp3 */,
+				04A065952534DCD1008A43EE /* Staring At The Sun.mp3 */,
+				04A065982534DCD1008A43EE /* Take What You Want.mp3 */,
+				04A0659E2534DCD2008A43EE /* Wow.mp3 */,
+				04A0657925336CDC008A43EE /* After Hours.mp3 */,
+				04A0657B25336CDC008A43EE /* Alone Again .mp3 */,
+				04A0658125336CDD008A43EE /* Escape From LA.mp3 */,
+				04A0657625336CDC008A43EE /* Faith.mp3 */,
+				04A0658225336CDD008A43EE /* Hardest To Love.mp3 */,
+				04A0658025336CDD008A43EE /* Heartless.mp3 */,
+				04A0657C25336CDD008A43EE /* In Your Eyes.mp3 */,
+				04A0657E25336CDD008A43EE /* Repeat After Me.mp3 */,
+				04A0657D25336CDD008A43EE /* Save Your Tears.mp3 */,
+				04A0657F25336CDD008A43EE /* Scared To Live.mp3 */,
+				04A0657825336CDC008A43EE /* Snowchild.mp3 */,
+				04A0657A25336CDC008A43EE /* Too Late.mp3 */,
+				04A0657725336CDC008A43EE /* Until I Bleed Out.mp3 */,
+				04A0655825336AF0008A43EE /* Ready For It.mp3 */,
+				04A0655F25336B93008A43EE /* Call It What You Want.mp3 */,
+				04A0656225336B93008A43EE /* Dancing With Our Hands Tied.mp3 */,
+				04A0656725336B94008A43EE /* Delicate.mp3 */,
+				04A0655D25336B93008A43EE /* Don’t Blame Me.mp3 */,
+				04A0655A25336B93008A43EE /* Dress.mp3 */,
+				04A0656325336B93008A43EE /* End Game.mp3 */,
+				04A0655B25336B93008A43EE /* Getaway Car.mp3 */,
+				04A0656125336B93008A43EE /* Gorgeous.mp3 */,
+				04A0655C25336B93008A43EE /* I Did Something Bad.mp3 */,
+				04A0656025336B93008A43EE /* King Of My Heart.mp3 */,
+				04A0655E25336B93008A43EE /* Look What You Made Me Do.mp3 */,
+				04A0656625336B93008A43EE /* New Year’s Day.mp3 */,
+				04A0656425336B93008A43EE /* So It Goes.mp3 */,
+				04A0656525336B93008A43EE /* This Is Why We Can t Have Nice Things.mp3 */,
+			);
+			path = musicAudio;
+			sourceTree = "<group>";
+		};
+		04A4D7B52533423F00E9C48B /* Artist */ = {
+			isa = PBXGroup;
+			children = (
+				04A4D77F2531DA5500E9C48B /* artistsCell.swift */,
+				04A4D77D2531D6BF00E9C48B /* ArtistsTVC.swift */,
+			);
+			path = Artist;
+			sourceTree = "<group>";
+		};
+		04A4D7B62533425F00E9C48B /* Album */ = {
+			isa = PBXGroup;
+			children = (
+				04A4D787253200FB00E9C48B /* albumTVC.swift */,
+				04A4D7852531F3F100E9C48B /* albumsCell.swift */,
+			);
+			path = Album;
+			sourceTree = "<group>";
+		};
+		04A4D7B72533428D00E9C48B /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				04C67A33253346B2000455CB /* songsTVC.swift */,
+				04C67A35253346D6000455CB /* songsCell.swift */,
+			);
+			path = Songs;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04A4D6A52530C0E700E9C48B /* Music Player hm4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04A4D6BA2530C0E800E9C48B /* Build configuration list for PBXNativeTarget "Music Player hm4" */;
+			buildPhases = (
+				04A4D6A22530C0E700E9C48B /* Sources */,
+				04A4D6A32530C0E700E9C48B /* Frameworks */,
+				04A4D6A42530C0E700E9C48B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Music Player hm4";
+			productName = "Music Player hm4";
+			productReference = 04A4D6A62530C0E700E9C48B /* Music Player hm4.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04A4D69E2530C0E700E9C48B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1160;
+				LastUpgradeCheck = 1160;
+				ORGANIZATIONNAME = Mac;
+				TargetAttributes = {
+					04A4D6A52530C0E700E9C48B = {
+						CreatedOnToolsVersion = 11.6;
+					};
+				};
+			};
+			buildConfigurationList = 04A4D6A12530C0E700E9C48B /* Build configuration list for PBXProject "Music Player hm4" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04A4D69D2530C0E700E9C48B;
+			productRefGroup = 04A4D6A72530C0E700E9C48B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04A4D6A52530C0E700E9C48B /* Music Player hm4 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04A4D6A42530C0E700E9C48B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04A0658425336CDD008A43EE /* Until I Bleed Out.mp3 in Resources */,
+				04A4D6B62530C0E800E9C48B /* LaunchScreen.storyboard in Resources */,
+				04A0657125336B94008A43EE /* End Game.mp3 in Resources */,
+				04A0656F25336B94008A43EE /* Gorgeous.mp3 in Resources */,
+				04A065A32534DCD2008A43EE /* Goodbyes.mp3 in Resources */,
+				04A065A02534DCD2008A43EE /* Hollywood s Bleeding.mp3 in Resources */,
+				04A0658B25336CDD008A43EE /* Repeat After Me.mp3 in Resources */,
+				04A0656B25336B94008A43EE /* Don’t Blame Me.mp3 in Resources */,
+				04A065AF2534DCD2008A43EE /* Die For Me.mp3 in Resources */,
+				04A0656E25336B94008A43EE /* King Of My Heart.mp3 in Resources */,
+				04A0657325336B94008A43EE /* This Is Why We Can t Have Nice Things.mp3 in Resources */,
+				04A065A22534DCD2008A43EE /* Enemies.mp3 in Resources */,
+				04A4D6B32530C0E800E9C48B /* Assets.xcassets in Resources */,
+				04A065A82534DCD2008A43EE /* Take What You Want.mp3 in Resources */,
+				04A0658F25336CDD008A43EE /* Hardest To Love.mp3 in Resources */,
+				04A0657225336B94008A43EE /* So It Goes.mp3 in Resources */,
+				04A0656D25336B94008A43EE /* Call It What You Want.mp3 in Resources */,
+				04A0658A25336CDD008A43EE /* Save Your Tears.mp3 in Resources */,
+				04A065A52534DCD2008A43EE /* Staring At The Sun.mp3 in Resources */,
+				04A0658325336CDD008A43EE /* Faith.mp3 in Resources */,
+				04A065A92534DCD2008A43EE /* On The Road.mp3 in Resources */,
+				04A4D6B12530C0E700E9C48B /* Main.storyboard in Resources */,
+				04A0657025336B94008A43EE /* Dancing With Our Hands Tied.mp3 in Resources */,
+				04A0658D25336CDD008A43EE /* Heartless.mp3 in Resources */,
+				04A065A12534DCD2008A43EE /* I m Gonna Be.mp3 in Resources */,
+				04A065AE2534DCD2008A43EE /* Wow.mp3 in Resources */,
+				04A0658825336CDD008A43EE /* Alone Again .mp3 in Resources */,
+				04A065A42534DCD2008A43EE /* A Thousand Bad Times.mp3 in Resources */,
+				04A0656A25336B94008A43EE /* I Did Something Bad.mp3 in Resources */,
+				04A0658C25336CDD008A43EE /* Scared To Live.mp3 in Resources */,
+				04A0656925336B94008A43EE /* Getaway Car.mp3 in Resources */,
+				04A065AD2534DCD2008A43EE /* Internet.mp3 in Resources */,
+				04A0657525336B94008A43EE /* Delicate.mp3 in Resources */,
+				04A065B12534DFE1008A43EE /* Don’t Blame Me.mp3 in Resources */,
+				04A065AA2534DCD2008A43EE /* Saint-Tropez.mp3 in Resources */,
+				04A0657425336B94008A43EE /* New Year’s Day.mp3 in Resources */,
+				04A065A72534DCD2008A43EE /* Circles.mp3 in Resources */,
+				04A065AC2534DCD2008A43EE /* Post Malone - Allergic (Audio).mp3 in Resources */,
+				04A0655925336AF0008A43EE /* Ready For It.mp3 in Resources */,
+				04A065A62534DCD2008A43EE /* I Know.mp3 in Resources */,
+				04A0658925336CDD008A43EE /* In Your Eyes.mp3 in Resources */,
+				04A0658725336CDD008A43EE /* Too Late.mp3 in Resources */,
+				04A0656C25336B94008A43EE /* Look What You Made Me Do.mp3 in Resources */,
+				04A0656825336B94008A43EE /* Dress.mp3 in Resources */,
+				04A0658625336CDD008A43EE /* After Hours.mp3 in Resources */,
+				04A0658E25336CDD008A43EE /* Escape From LA.mp3 in Resources */,
+				04A0658525336CDD008A43EE /* Snowchild.mp3 in Resources */,
+				04A065AB2534DCD2008A43EE /* Myself.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04A4D6A22530C0E700E9C48B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04C67A34253346B2000455CB /* songsTVC.swift in Sources */,
+				04A4D6AE2530C0E700E9C48B /* ViewController.swift in Sources */,
+				04A4D7862531F3F100E9C48B /* albumsCell.swift in Sources */,
+				04A4D7802531DA5500E9C48B /* artistsCell.swift in Sources */,
+				04C67A36253346D6000455CB /* songsCell.swift in Sources */,
+				04A4D6AA2530C0E700E9C48B /* AppDelegate.swift in Sources */,
+				04A4D7842531DEFD00E9C48B /* musicData.swift in Sources */,
+				04A4D6AC2530C0E700E9C48B /* SceneDelegate.swift in Sources */,
+				04A4D77E2531D6BF00E9C48B /* ArtistsTVC.swift in Sources */,
+				04A4D788253200FB00E9C48B /* albumTVC.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		04A4D6AF2530C0E700E9C48B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04A4D6B02530C0E700E9C48B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		04A4D6B42530C0E800E9C48B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04A4D6B52530C0E800E9C48B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04A4D6B82530C0E800E9C48B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		04A4D6B92530C0E800E9C48B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04A4D6BB2530C0E800E9C48B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Music Player hm4/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "nothing.Music-Player-hm4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04A4D6BC2530C0E800E9C48B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Music Player hm4/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "nothing.Music-Player-hm4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04A4D6A12530C0E700E9C48B /* Build configuration list for PBXProject "Music Player hm4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04A4D6B82530C0E800E9C48B /* Debug */,
+				04A4D6B92530C0E800E9C48B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04A4D6BA2530C0E800E9C48B /* Build configuration list for PBXNativeTarget "Music Player hm4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04A4D6BB2530C0E800E9C48B /* Debug */,
+				04A4D6BC2530C0E800E9C48B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04A4D69E2530C0E700E9C48B /* Project object */;
+}
